@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaiSivaKumar-0906
+- 👋 Hi, I’m Sai Siva Kumar
 - 👀 I’m interested in ... backend, systems
 - 🌱 I’m currently learning ... node, database, api, dsa. I'll add more
 - 💞️ I’m looking to collaborate on ...
